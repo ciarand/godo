@@ -1,3 +1,5 @@
+This project is deprecated and unmaintained. Proceed with caution!
+
 # godo
 
 [godoc](https://godoc.org/gopkg.in/godo.v1)
